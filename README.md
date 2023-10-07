@@ -10,6 +10,8 @@ Oragnisation: JV bose ust of science and technology
 
 Location: India
 
-3. Create a file in random-code folder and add any programming code of your choice
+3. Add any code of your choice inside the Random-code folder.
 
-4. Don't forget to star my repo:) 
+4. Create a pull request and wait till i accept it <3.
+
+5. Don't forget to star my repo:) 
